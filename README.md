@@ -3,7 +3,7 @@
 An advanced robotics simulation project that demonstrates autonomous object transportation, sorting, and workspace organization using intelligent robot behavior within a virtual environment.
 
 <p align="center">
-  <img src="worlds Project 222.3.jpg" alt="Robot Simulation Environment" width="950">
+  <img src="worlds/Project%20222.3.jpg" alt="Simulation Environment" width="950">
 </p>
 
 <p align="center">
